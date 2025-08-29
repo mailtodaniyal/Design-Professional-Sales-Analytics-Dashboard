@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Category,OrderDate,Status,Amount,Country,Quantity,Profit
+1001,CUST-045,Apple iPhone 13,Electronics,2023-10-01,Paid,999.00,United States,1,299.70
+1002,CUST-128,Nike Air Jordan,Fashion,2023-10-01,Pending,72.40,Brazil,1,21.72
+1003,CUST-332,T-shirt,Fashion,2023-09-30,Paid,35.40,Australia,3,10.62
+1004,CUST-219,Assorted Cross Bag,Accessories,2023-09-30,Paid,80.00,Germany,1,24.00
+1005,CUST-107,Smart Fitness Tracker,Electronics,2023-09-29,Canceled,39.99,United States,1,12.00
+1006,CUST-488,Leather Wallet,Accessories,2023-09-29,Paid,19.99,Australia,2,6.00
+1007,CUST-376,Electric Hair Trimmer,Health & Beauty,2023-09-28,Paid,34.99,Germany,1,10.50
+1008,CUST-254,Wireless Earbuds,Electronics,2023-09-28,Pending,49.99,Brazil,1,15.00
+1009,CUST-142,Apple iPhone 13,Electronics,2023-09-27,Paid,999.00,United States,1,299.70
+1010,CUST-030,Nike Air Jordan,Fashion,2023-09-27,Paid,72.40,Australia,1,21.72
